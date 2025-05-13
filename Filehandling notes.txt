@@ -1,0 +1,13 @@
+1. Why is it important to close a file after you're done with it?
+Closing a file releases system resources associated with it.
+Not closing files can lead to data corruption or loss in some cases.
+2. What is the with statement used for in file handling?
+The with statement ensures that the file is properly closed even if an exception occurs. It is a recommended way to handle files in Python.
+
+What is the difference between text and binary files in Python?
+Text files contain human-readable characters, while binary files contain raw data.
+Open text files with mode r or w, and binary files with mode rb or wb.
+
+What is the purpose of the tell() and seek() methods in file handling?
+tell() returns the current position within the file.
+seek() moves the file pointer to a specific position.

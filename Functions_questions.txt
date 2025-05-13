@@ -1,0 +1,32 @@
+Ajay Desktop 10/24/2024 7:50 PM • 
+'''
+Write a function that returns the sum of two numbers.
+Write a function to check if a number is even or odd.
+Write a function that takes a string and returns its reverse.
+Write a function that returns the factorial of a given number.
+Write a function to check if a given string is a palindrome.
+Write a function that returns the maximum of three numbers.
+Write a function that counts the number of vowels in a given string.
+Write a function that takes a number and returns its square.
+'''
+'''
+Write a function to calculate the sum of all even numbers in a list.
+Write a function that removes all vowels from a given string.
+Write a function to check if two strings are anagrams.
+Write a function to flatten a nested list (e.g., [[1, 2], [3, 4]] → [1, 2, 3, 4]).
+Write a function that takes two lists and returns a list of common elements.
+Write a function that returns a list of prime numbers up to a given limit.
+Write a function that checks if a number is a perfect square.
+'''
+'''
+Write a function to implement the merge sort algorithm.
+# 10/25/2024 11:01 AM • 
+# list1 = [1,2,3,4,5,6,22,22,33,11]
+# Write a function to remove the duplicates in the list
+# Write a function that reads a number 'n' in the list, and returns the first 'n' prime numbers
+# Write a function that returns the difference between squares of the numbers in the above list, and number of factors for that square including their list of factors/
+# Help to print ("Hi the square of the number (3) is 9")
+# Write a function to check if given number is greater than all numbers in the list.
+
+
+'''

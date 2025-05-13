@@ -1,0 +1,40 @@
+# '''
+# 1.Create a dictionary with keys as numbers 1 to 5 and values as their squares.
+# 2.Given a dictionary, access the value associated with a specified key and print it.
+# 3. Write a function that takes a dictionary and a key as input, returns the value if it exists, or "Key not found" if it doesn’t.
+# 4. Write a function that adds a key-value pair to a dictionary only if the key does not already exist.
+# 5. Create a dictionary with three students' names as keys and their scores as values, then update one student’s score.
+# 6. Write a program that removes a specific key from a dictionary if it exists.
+# 7. Write a program to check if a specific key exists in a dictionary.
+# 8. Given a dictionary, clear all entries and print the dictionary.
+# 9. Write a function that returns all keys of a dictionary.
+# 10. Write a function that returns all values of a dictionary.
+# 11. Given a dictionary, use a loop to print each key and value on a new line.
+# 12. Write a function that counts the number of keys in a dictionary.
+# 13. Write a program that removes the key with the smallest value from a dictionary.
+# 14. Write a program that combines two dictionaries into one.
+# 15. Write a function that merges two dictionaries. If there are duplicate keys, add their values.
+# 16. Create a dictionary from two lists: one with keys and one with values.
+# 17. Write a function that creates a dictionary where the keys are strings and values are their lengths.
+# 18. Write a function that returns the minimum value in a dictionary.
+# 19. Write a function that returns the maximum value in a dictionary.
+# 20. Write a program that counts the frequency of each letter in a given string and stores it in a dictionary.
+# 21. Write a program that creates a dictionary from a list of numbers, with keys as numbers and values as their cubes.
+# 22. Write a program to find and print the average value of all values in a dictionary.
+# 23. Given a dictionary with multiple people’s ages, write a function that groups people by their age.
+# 24. Write a function that takes a dictionary and returns the sum of all values.
+# 25. Write a function that returns the top N keys with the highest values from a dictionary.
+# 26. Write a program to sort a dictionary by its keys in ascending order.
+# 27. Write a program to sort a dictionary by its values in descending order.
+# 28. Write a function that takes a dictionary and removes all key-value pairs with even values.
+# 29. Given a dictionary of employee salaries, create a new dictionary with only those earning above a specified salary.
+# 30. Write a program that creates a dictionary where keys are numbers from 1 to N and values are factorials of the keys.
+# 31. Write a function that finds the intersection of two dictionaries (keys present in both).
+# 32. Write a program that finds the difference between two dictionaries (keys in one but not the other).
+# 33. Write a function that checks if two dictionaries are equal, regardless of key order.
+# 34. Write a function to find the longest key in a dictionary.
+# 35. Write a function that sorts a dictionary based on the length of its keys.
+# 36. Given a dictionary, write a program to find keys with the same values and group them together.
+# 37. Write a program that converts a nested dictionary into a flat dictionary (e.g., {"a": {"b": 1}} becomes {"a.b": 1}).
+# 38. Write a function that counts the number of keys that start with a particular letter in a dictionary.
+# '''

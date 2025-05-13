@@ -1,0 +1,18 @@
+In Python 2, range and xrange were two distinct functions with key differences:
+
+Memory Usage:
+
+range: In Python 2, range(n) generated a list with all numbers in memory at once. For large ranges, this could consume significant memory.
+xrange: xrange(n) returned an iterator-like object that lazily generated each number as needed, which was more memory-efficient for large ranges.
+Return Type:
+
+range: Returned a list of numbers, which supported indexing, slicing, and other list operations.
+xrange: Returned an xrange object, which acted as a generator-like object, producing each number on demand. It did not support list operations like slicing or direct indexing.
+Performance:
+
+xrange: Was generally more memory-efficient for large ranges, making it the preferred choice for loops in Python 2 when you didn’t need the list as a whole.
+In Python 3
+The range function was re-implemented to behave like xrange in Python 2. It returns a lazy, memory-efficient sequence that generates numbers on demand, so xrange is no longer needed and doesn’t exist in Python 3. In other words:
+
+range in Python 3 behaves like xrange from Python 2.
+It combines the best of both: it’s memory efficient and also supports indexing and iteration.

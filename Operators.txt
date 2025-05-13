@@ -1,0 +1,55 @@
+Operator is a keyword in python that represent an action or computation on one or more operands.
+
+Types:
+1. Arithimetic
+    a. + : Addition
+    b. - : Subraction
+    c. * : Multiplication
+    d. / : Division
+    e. % : Modulus - Remainder
+    f. **: Exponentiation
+    g. //: Floor Division (Integer value, or quotient)
+
+2. Assignment
+    a. = (Simple Assignment)
+    b. += (Add and Assign)
+    c. -= (Subract and Assign)
+    d. *=
+    e. /=
+    f. %=
+    g. **=
+    h. //=
+
+3. Comparision (Output will be a boolean value)
+    a. == 
+    b. !=
+    c. >
+    d. <
+    e. >=
+    f. <=
+
+4. Logical 
+    a. and ((x >5) and (y<10))
+    b. or  ((x >5) or (y<10))
+    c. not (not (x <5))
+    
+5. Bitwise / Explain at the end of session 
+    a. &
+    b. |
+    c. XOR(^)
+    d. NOT (~)
+    e. Left Shift (<<)
+    f. Right Shift (>>)
+    
+6. Membership 
+    a. in
+    b. not in
+
+7. Identity
+    a. is
+    b. is not
+    c. Difference between == and is***
+    
+8. Special
+9.ternary 
+   true_value if condition else false_value

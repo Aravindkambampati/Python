@@ -1,0 +1,33 @@
+# How memory is allocated in Python
+# Python package, module
+# statement, expressions
+# Map Zip Filter Enumerate
+# Tuple
+# set
+# Operators
+# Functions (Diving Deeper)
+# Recursion
+# Exception Handling
+# File Handling
+# Decorators
+# Generators
+-----------------------------------
+MOCKS
+-----------------------------------
+OOPS
+    - Classes
+    - Objects
+    - Inhertiance
+    - Encapsulation
+    - Abstraction
+    - Method Overloading
+    - Method Overriding
+    - Diamond Problem
+    - Closures
+    - Composition
+    - ABC
+    - MRO
+Multithreading
+Multiprocessing
+Memory Management in Python
+RegExp (O)
